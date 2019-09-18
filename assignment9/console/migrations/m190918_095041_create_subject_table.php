@@ -5,7 +5,7 @@ use yii\db\Migration;
 /**
  * Handles the creation of table `{{%subject}}`.
  */
-class m190912_082758_create_subject_table extends Migration
+class m190918_095041_create_subject_table extends Migration
 {
     /**
      * {@inheritdoc}
